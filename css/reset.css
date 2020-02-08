@@ -1,6 +1,6 @@
 body {
-    font-family: arial;
-    background: #f8f9fb;
+  font-family: arial;
+  background: #f8f9fb;
 }
 
 html,
@@ -11,8 +11,8 @@ li,
 form,
 fieldset,
 legend {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 h1,
@@ -22,22 +22,22 @@ h4,
 h5,
 h6,
 p {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 fieldset,
 img {
-    border: 0;
+  border: 0;
 }
 
 li {
-    list-style: none;
+  list-style: none;
 }
 
 .wrapper {
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-    box-sizing: border-box;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
 }
